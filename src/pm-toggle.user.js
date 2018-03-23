@@ -107,5 +107,4 @@
         el: '#approot',
       }
     );
-    console.log(appRoot);
 })();
